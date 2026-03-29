@@ -1,4 +1,4 @@
-# 📊 E-Commerce Product Funnel Analysis (Excel)
+# 📊 E-Commerce Product Funnel Analysis 
 
 ## 🚀 Overview
 
